@@ -115,3 +115,5 @@ dmypy.json
 .pyre/
 
 search/static/full/
+.idea/
+.DS_Store
